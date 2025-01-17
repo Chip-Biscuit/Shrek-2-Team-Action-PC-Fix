@@ -5,9 +5,8 @@ Before you put this fix into your installation Game folder next to shrek2.exe it
 
 simply go to releases download the zip for the fix you wish to use unzip it and copy the d3d9.dll and d3d9.ini into your game folder and make sure to follow the step above! (\Activision\Shrek 2 Team Action\Game) next to shrek2.exe and your good to go 
 
-The launcher.exe doesnt work with the fix d3d9.dll and d3d9.ini in the games intall location, so you will have to use shrek2.exe instead. You can make a shortcut to shrek2.exe on your desktop if you wish for ease of use. 
-
-If you do need to use the launcher you will have to temporarily either delete or move the d3d9.dll and d3d9.ini then use the launcher and then put the files back after you edit settings in the launcher save and quit then put the d3d9.dll and d3d9.ini files back into the game installation and again use the shrek2.exe instead of the launcher.exe whilst using the fix.
+To get the launcher.exe to work you need to go to the Shrek 2 Team Action folder where you see files called Launcher.exe and shrk2tma.ico.
+Now what you need to do is delete the Launcher.exe (88kb) file. Go into the folder (Game) and copy the Launcher.exe (496kb) file and put that into the first location Shrek 2 Team Action. Now using the launcher will work properly with the fix.
 
 # Settings
 you can edit settings in d3d9.ini 
