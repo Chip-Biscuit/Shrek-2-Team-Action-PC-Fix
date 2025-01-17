@@ -7,6 +7,8 @@ simply go to releases download the zip for the fix you wish to use unzip it and 
 
 The launcher.exe doesnt work with the fix d3d9.dll and d3d9.ini in the games intall location, so you will have to use shrek2.exe instead. You can make a shortcut to shrek2.exe on your desktop if you wish for ease of use. 
 
+If you do need to use the launcher you will have to temporarily either delete or move the d3d9.dll and d3d9.ini then use the launcher and then put the files back after you edit settings in the launcher save and quit then put the d3d9.dll and d3d9.ini files back into the game installation and again use the shrek2.exe instead of the launcher.exe whilst using the fix.
+
 # Settings
 you can edit settings in d3d9.ini 
 
