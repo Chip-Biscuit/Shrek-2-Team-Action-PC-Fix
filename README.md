@@ -35,6 +35,8 @@ https://discord.gg/eVJ7sQH7Cc
 # Credits
 Credit to Elisha Riedlinger for the base wrapper and ThirteenAG.
 
+Credit to CassetteMan/Serial Designation S - Discord user for figuring out the issue with the Launcher.exe not working.
+
 brought to you by Fix Enhancers
 https://fixenhancers.wixsite.com/fix-enhancers
 
