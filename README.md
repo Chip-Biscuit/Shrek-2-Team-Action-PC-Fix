@@ -1,7 +1,7 @@
 # Shrek-2-Team-Action-PC-Fix
 
 # Instructions
-Before you put this fix into your installation Game folder next to shrek2.exe it is important that you run the launcher.exe and set the resolution within the launcher to 800 x 600. you need to do this for the fix to work properly.
+Before you use this fix it is important that you run the launcher.exe and set the resolution within the launcher to 800 x 600. you need to do this for the fix to work properly.
 
 simply go to releases download the zip for the fix you wish to use unzip it and copy the d3d9.dll and d3d9.ini into your game folder and make sure to follow the step above! (\Activision\Shrek 2 Team Action\Game) next to shrek2.exe and your good to go 
 
