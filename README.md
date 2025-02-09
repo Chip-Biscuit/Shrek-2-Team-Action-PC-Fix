@@ -25,7 +25,10 @@ This version has no message box asking you to choose a key before launching the 
 
 # Extras
 If you use controller and would like to have the symbols for your specific controller then you can find this mod here: https://community.pcgamingwiki.com/files/file/2413-shrek-2-team-action-xbox-ps2-buttons/
- 
+
+# Vote to see the game return via GOG Dreamlist
+If you are interested in potentially seeing this game easily available to purchase and use today then go and vote on the games GOG Dreamlist to help make this become a reality, you can vote for the game here and write a message about the game if you wish – https://www.gog.com/dreamlist/game/shrek-2-team-action
+
 # Issues/Problems
 If you have any issues, with the fixes then please go to discord for help linked below. https://discord.gg/eVJ7sQH7Cc
 
