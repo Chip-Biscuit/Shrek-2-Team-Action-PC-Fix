@@ -1,5 +1,7 @@
 # Shrek-2-Team-Action-PC-Fix
 
+![shrek2](https://github.com/user-attachments/assets/d13f0d97-d5da-4cba-bc66-21d3daeeb763)
+
 # Instructions
 Before you use this fix, it is important that you run the launcher.exe and set the resolution within the launcher to 800 x 600. This must be done for the fix to work properly.
 
