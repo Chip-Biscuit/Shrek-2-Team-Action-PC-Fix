@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Shrek-2-Team-Action-PC-Fix
 
 ![shrek2](https://github.com/user-attachments/assets/d13f0d97-d5da-4cba-bc66-21d3daeeb763)
